@@ -10,6 +10,3 @@ This repository contains Python internship projects developed using core program
 ## Technologies Used
 - Python
 - VS Code
-
-## Author
-Shaminib17
